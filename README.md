@@ -4,4 +4,7 @@
 
 ![Example Screenshot](universities-list-screenshot-2.jpg)
 
-search universities world-wide made possible by mixedanalytics Universities List API.
+
+> [!NOTE]
+> Search universities world-wide made possible by [mixedanalytics](https://hipolabs.com/) Universities List API.
+
